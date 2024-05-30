@@ -40,3 +40,6 @@ To start the application, run:
 ```bash
 npm start
 ```
+
+### Live Demo
+- [Patients Diagnosis System Dashboard](https://patients-diagnosis-system.vercel.app/)
